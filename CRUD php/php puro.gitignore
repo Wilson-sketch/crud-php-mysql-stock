@@ -1,0 +1,22 @@
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Configuraciones de entorno/locales
+.env
+*.log
+
+# Archivos de sesión
+sessions/
+tmp/
+
+# Directorios de IDEs
+.vscode/
+.idea/
+
+# Archivos de sistema del servidor local
+*.bak
+*.swp
+
+# Archivos generados por Composer (si alguna vez lo usás)
+vendor/
