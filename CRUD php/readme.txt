@@ -1,6 +1,5 @@
-Sistema de Gestión Web - Programación Web II
-Alumno: Wilson Andrade
-Comisión: ACN1AV
+Sistema de Gestión Web - Programación Web
+Creador: Wilson Andrade
 Correo: wilson.andrade@davinci.edu.ar
 
 Tecnologías usadas: PHP (procedural), MySQL, HTML, CSS, phpMyAdmin, XAMPP
